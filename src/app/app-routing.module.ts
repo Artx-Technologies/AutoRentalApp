@@ -4,7 +4,6 @@ import { LandingPageComponent } from './landing-page/landing-page.component';
 
 
 const routes: Routes = [
-  {path : "landimg" ,component: LandingPageComponent},
 ];
 
 @NgModule({
